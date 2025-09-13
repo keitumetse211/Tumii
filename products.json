@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "description": "Strong black coffee",
+    "category": "Beverage",
+    "price": 2.5,
+    "quantity": 20
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "description": "Coffee with milk foam",
+    "category": "Beverage",
+    "price": 3.0,
+    "quantity": 15
+  }
+]
